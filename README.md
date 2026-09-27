@@ -20,5 +20,5 @@ This project was created to practice Python programming and understand the basic
 
 ## Author
 
-**Sanjeev Kumar Jaiswal**
+**Sanjeev**
 
