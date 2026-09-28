@@ -5,7 +5,7 @@ A simple **Library Management System** developed using **Python**.
 ## Features
 
 * Add and manage books
-* Search for books
+* Search for books 
 * Issue and return books
 * View library records
 * Simple and beginner-friendly interface
